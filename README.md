@@ -68,7 +68,7 @@ APÓS O ENCERRAMENTO, VOCÊ TERÁ ACESSO AS DEMAIS FUNCIONALIDADES...
 ``` py 
 1 - ADICIONAR METAS
 2 - VER METAS
-3 -  SUGESTÃO DE TREINOS
+3 - SUGESTAO DE TREINOS
 4 - FEEDBACK
 5 - ENCERRAR
 ```
@@ -80,7 +80,7 @@ APÓS O ENCERRAMENTO, VOCÊ TERÁ ACESSO AS DEMAIS FUNCIONALIDADES...
 # Equipe
 ``` py
  - Caio Rocha
- - Mateus Diniz
+ - Mateus Diniz 
  - Denys Sales
  - Gabriel Victalino
  - Hugo Gomes
